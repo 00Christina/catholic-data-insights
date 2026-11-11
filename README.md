@@ -44,3 +44,32 @@ catholic-data-insights/
 ├── docs/                       # Data dictionaries and source attribution
 ├── LICENSE
 └── README.md
+```
+
+## 📊 Data Sources & Attribution
+
+We are deeply grateful to the open-data projects, archives, and academic repositories that make these visualizations possible:
+
+* **St. Carlo Acutis Eucharistic Miracles Archive:** Miracle locations, historical notes, and media derived from [miracolieucaristici.org](https://www.miracolieucaristici.org/).
+* **GCatholic Data Engine:** Global ecclesiastical jurisdictions, historical diocese boundaries, and papal statistics from [GCatholic.org](https://www.gcatholic.org/).
+* **CatholicSaints.Info:** Hagiographic data, feast days, and patronage attributes from [CatholicSaints.Info](https://catholicsaints.info/).
+* **Wikidata SPARQL Endpoint:** Papal timelines, birthplaces, and schism network nodes via [Wikidata Query Service](https://query.wikidata.org/).
+
+> **Note on Data Usage:** This project is for educational and research visualization purposes only. All underlying intellectual property remains with the original archive maintainers.
+---
+
+## Contributing
+
+Contributions are welcome! Whether you're adding new data pipelines, improving map performance, or refining chart aesthetics:
+
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+---
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
