@@ -1,0 +1,19 @@
+# Python environment & cache
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Streamlit local settings
+.streamlit/
+
+# Data files (keep raw/heavy files local, commit only clean datasets or sample scripts)
+data/raw/*
+!data/raw/.gitkeep
+*.parquet
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db

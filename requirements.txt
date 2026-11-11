@@ -1,0 +1,17 @@
+# Web Framework & Dashboards
+streamlit>=1.30.0
+
+# Data Wrangling & Geospatial Analysis
+pandas>=2.0.0
+geopandas>=0.14.0
+numpy>=1.24.0
+
+# Interactive Charting & Mapping
+plotly>=5.18.0
+folium>=0.15.0
+streamlit-folium>=0.15.0
+networkx>=3.0
+
+# Data Scraping & Web Requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
